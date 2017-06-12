@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Change city</string>
+    <string name="app_name">Under the Weather</string>
+    <string name="current_weather_high">max 14&#xb0;C</string>
+    <string name="current_weather_low">min 12&#xb0;C</string>
+    <string name="current_location">Hyde Park, South Africa</string>
+    <string name="current_date">Sunday, 11 June 2017</string>
+    <string name="forecast_mon">condition</string>
+    <string name="forecast_tue">Humidy</string>
+    <string name="forecast_wed">Pressure</string>
+    <string name="forecast_thur">Under the Weather</string>
+    <string name="forecast_fri">Under the Weather</string>
+    <string name="icon">icon</string>
+
+    <string name="change_city">Change city</string>
+    <string name="open_weather_maps_app_id">8f1ddb6ed9b240c1495704e396eccd60</string>
+    <string name="weather_sunny">&#xf00d;</string>
+    <string name="weather_clear_night">&#xf02e;</string>
+    <string name="weather_foggy">&#xf014;</string>
+    <string name="weather_cloudy">&#xf013;</string>
+    <string name="weather_rainy">&#xf019;</string>
+    <string name="weather_snowy">&#xf01b;</string>
+    <string name="weather_thunder">&#xf01e;</string>
+    <string name="weather_drizzle">&#xf01c;</string>
+
+    <string name="place_not_found">Sorry, no weather data found.</string>
+
+</resources>
